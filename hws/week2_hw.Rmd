@@ -1,0 +1,185 @@
+---
+title: "ANLY 503"
+subtitle: "Week 2 HW: Junk or not"
+author: "Vaisman & Dasgupta"
+institute: "Georgetown University"
+date: "September 3, 2020"
+output:
+  xaringan::moon_reader:
+    css: [default, 'robot.css','robot-fonts.css', 'sfah.css']
+    nature:
+      beforeInit: "macros.js"
+      ratio: '16:9'
+      #highlightStyle: zenburn
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+layout: true
+
+<div class="my-header">
+<span>ANLY 503, Scientific and Analytical Visualization</span>
+</div>
+
+---
+
+## Graph 1
+.left-column70[
+![:scale 70%](img/hw/natgeo.png)
+]
+.right-column30[
+Visualizing suffering over the ages
+
+[National Geographic](https://www.nationalgeographic.com/magazine/2020/08/how-devastating-pandemics-change-us-feature/) [dynamic graph]
+]
+
+---
+
+## Graph 2
+
+.left-column70[
+![](img/hw/hurricane_season.png)
+]
+.right-column30[
+Severity of the Atlantic storm seasons, 1950-2020
+
+[Bloomberg](https://www.bloomberg.com/graphics/2020-hurricanes/)
+
+]
+
+---
+
+## Graph 3
+
+.left-column70[
+![label](img/hw/gdp-vs-happiness.png)
+]
+.right-column30[
+Self-reported life satisfaction vs GDP
+
+Data @ [World Bank](http://data.worldbank.org/data-catalog/world-development-indicators)
+
+More information [here](https://ourworldindata.org/grapher/gdp-vs-happiness)
+
+Just consider the static image and not the animation!!    
+]
+
+---
+
+## Graph 4
+
+.left-column70[
+![:scale 90%](img/hw/rwb.png)
+]
+.right-column30[
+Percentage of political candidates in United States using non-RWB (red, white, blue) colors in their campaigns by election year
+
+Source: [Pudding](https://pudding.cool/2020/08/campaign-colors/)
+
+]
+
+---
+
+## Graph 5
+
+![label](img/hw/flooding.png)
+.footnote[
+Source: [Pudding](https://pudding.cool/projects/flooding/visuals/)
+]
+
+---
+
+## Graph 6
+
+.left-column70[
+![label](img/hw/marks.png)
+]
+.right-column30[
+Source: [The Economist](https://www.economist.com/graphic-detail/2020/06/17/much-of-the-world-thinks-the-response-to-the-pandemic-has-been-poor)
+]
+
+---
+
+## Graph 7
+
+.left-column70[
+![label](img/hw/share-of-population-urban.png)
+]
+.right-column30[
+
+]
+
+---
+
+## Graph 8
+
+![:scale 55%](img/hw/diamonds.png)
+
+---
+
+## Graph 9
+
+![:scale 50%](img/hw/monster.jpeg)
+
+---
+
+## Graph 10
+
+.middle[
+.center[![:scale 45%](img/hw/vampire_energy.png)]
+]
+.footnote[Source: [@ Nigel Holmes](http://www.nigelholmes.com/site/wp-content/uploads/2016/09/vampire_energy.png)
+]
+
+---
+
+## Graph 11
+
+.center[
+![label](img/hw/car_production.png)
+]
+
+---
+
+## Graph 12
+
+.center[![:scale 60%](img/hw/cnbc_cars.png)]
+.footnote[Source: [CNBC](https://www.cnbc.com/2019/11/25/global-car-sales-expected-to-slide-by-3point1-million-this-year-in-biggest-drop-since-recession.html)]
+
+
+---
+
+## Graph 13
+
+.pull-left[
+![:scale 60%](img/hw/hk_corona.png)
+]
+.pull-right[
+See the full-size version
+[here](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/lonelyGraphics/202004A256.html)
+
+Source: South China Morning Post
+]
+
+---
+
+## Graph 14
+
+.pull-left[
+![](img/hw/whites_parttime.png)
+]
+.pull-right[
+The original article is [here](https://junkcharts.typepad.com/junk_charts/2020/06/visualizing-black-unemployment-in-the-us.html)
+]
+
+---
+
+## Graph 15
+
+![:scale 38%](img/hw/too_many_colors.png)
+
+---
+
+## Graph 16
+
+![:scale 60%](img/hw/color_pref.png)
