@@ -1,8 +1,7 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "ANLY 503: Fall 2020"
   left:
-    - text: "Home"
+    - text: "Homework"
       href: index.html
-    - text: "About"
-      href: about.html
+
